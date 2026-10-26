@@ -1,0 +1,13 @@
+Учебные ключи secp256k1 (НЕ использовать в реальных проектах!)
+
+Аккаунт 1 (баланс 100)
+private key: 3ee6139313dcd1d22d8f334fb32abf193ca9af103cf3d94226a0410c6a187dfd
+public key:  03b47720a166ed61c28910c886a2012c3e6fc20e46eeb15576891a03fd2f054ba3
+
+Аккаунт 2 (баланс 50)
+private key: b378e8015dcbe362b3e27c07c201c85335bce04e9a7fcb92d075659cb1d2dc0d
+public key:  03cc1965b877d703fd6108fb98df6c17732f6f740bb67e631f906d23879d40bc96
+
+Аккаунт 3 (баланс 75)
+private key: ae684e901b3dd749d18482241d82a8391c7af46df0bca565bec3addb111548a0
+public key:  03715d5c19644df7883b7fcee0359fe9a2316222b52ee6025e7a42a7bbae171b29
